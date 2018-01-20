@@ -1,5 +1,5 @@
-# Boilerplate for a Webapp
-Made with React and Firebase
+# Webapp Boilerplate
+Made with React, Firebase and yet ready with Authentication and local development
 
 Features:
 
